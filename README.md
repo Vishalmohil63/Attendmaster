@@ -161,6 +161,6 @@ JWT_SECRET=your_jwt_secret
 
 ### 🙋‍♂️ Developed By
 
-**Vishal Kumar**
+**Vishal Mohil**
 *MERN Stack Developer | Problem Solver | Tech Enthusiast*
 
